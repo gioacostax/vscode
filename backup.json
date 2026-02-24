@@ -1,0 +1,141 @@
+{
+  "window.commandCenter": false,
+  "workbench.colorCustomizations": {
+    "editorBracketPairGuide.activeBackground1": "#999999",
+    "editorBracketPairGuide.activeBackground2": "#999999",
+    "editorBracketPairGuide.activeBackground3": "#999999",
+    "editorBracketPairGuide.activeBackground4": "#999999",
+    "editorBracketPairGuide.activeBackground5": "#999999",
+    "editorBracketPairGuide.activeBackground6": "#999999"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.sideBar.location": "right",
+  "workbench.activityBar.location": "bottom",
+  "workbench.colorTheme": "Nord",
+  "workbench.iconTheme": "symbols",
+  "extensions.ignoreRecommendations": true,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "editor.fontSize": 12,
+  "editor.bracketPairColorization.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.padding.top": 4,
+  "editor.defaultFormatter": "biomejs.biome",
+  "editor.fontFamily": "'JetBrainsMono Nerd Font Mono', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.lightbulb.enabled": "off",
+  "editor.linkedEditing": true,
+  "editor.autoClosingBrackets": "never",
+  "editor.autoClosingDelete": "always",
+  "editor.autoClosingOvertype": "always",
+  "editor.autoClosingQuotes": "always",
+  "editor.quickSuggestions": {
+    "comments": "off",
+    "strings": "off"
+  },
+  "editor.snippetSuggestions": "none",
+  "editor.wordBasedSuggestions": "off",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.biome": "always",
+    "source.organizeImports.biome": "always"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[astro]": {
+    "editor.defaultFormatter": "astro-build.astro-vscode"
+  },
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "terminal.external.osxExec": "fish",
+  "terminal.integrated.customGlyphs": true,
+  "eslint.ignoreUntitled": true,
+  "codesnap.backgroundColor": "#f5f6fb",
+  "codesnap.boxShadow": "rgba(0, 0, 0, 0.3) 0px 2px 15px",
+  "codesnap.containerPadding": "12px",
+  "codesnap.transparentBackground": true,
+  "codesnap.showWindowControls": false,
+  "template-string-converter.addBracketsToProps": true,
+  "codeium.enableCodeLens": false,
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.preferences.importModuleSpecifierEnding": "minimal",
+  "typescript.preferences.jsxAttributeCompletionStyle": "auto",
+  "typescript.suggest.paths": false,
+  "typescript.workspaceSymbols.scope": "currentProject",
+  "typescript.preferences.quoteStyle": "single",
+  "html.completion.attributeDefaultValue": "doublequotes",
+  "css.lint.unknownAtRules": "ignore",
+  "scss.lint.unknownAtRules": "ignore",
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "vitest.disableWorkspaceWarning": true,
+  "redhat.telemetry.enabled": false,
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "git.autofetch": true,
+  "git.allowForcePush": true,
+  "git.replaceTagsWhenPull": true,
+  "workbench.editor.editorActionsLocation": "hidden",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "astro",
+    "json"
+  ],
+  "hediet.vscode-drawio.resizeImages": null,
+  "workbench.startupEditor": "none",
+  "git.enableCommitSigning": true,
+  "html.format.indentInnerHtml": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "codeium.enableConfig": {
+    "*": true,
+    "markdown": true
+  },
+  "clangd.detectExtensionConflicts": false,
+  "[dockercompose]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "advanced",
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "mql_tools.Metaeditor.Metaeditor5Dir": "/Users/gio/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5/metaeditor64.exe",
+  "mql_tools.Compilation.Strict": "enabled",
+  "json.schemaDownload.trustedDomains": {
+    "https://schemastore.azurewebsites.net/": true,
+    "https://raw.githubusercontent.com/": true,
+    "https://www.schemastore.org/": true,
+    "https://json.schemastore.org/": true,
+    "https://json-schema.org/": true,
+    "https://biomejs.dev": true
+  },
+  "prettier.requireConfig": true,
+  "html.format.indentHandlebars": true,
+  "files.insertFinalNewline": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
+}
